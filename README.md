@@ -1,24 +1,51 @@
-# Hi, I'm Phoosanisa Khamma 👋 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Phoosanisa Khamma
+==========================================================================================================================================
 
-### IT Student • Software Tester • Software Testing Enthusiast
+Software Tester
+---------------
 
-> Passionate about finding bugs, improving software quality, and learning through testing.
+I'm a final-year IT student with a strong interest and passion for Software
 
-## 📔 About Me
+Testing & QA Automation. It all started about 2 years ago, when I got the
 
-- 🎓 Final-year IT student specializing in **Software Testing & QA Automation**
-- 🔍 I look for the edge case nobody thought of — then turn it into a test that runs forever
-- 🧪 Testing toolkit: **Robot Framework (Browser Library / Playwright)** · **Page Object Model** with custom Python libraries · data-driven suites (**Test Template**, **DataDriver**, Excel)
-- 🛠 Supporting stack: **Python** · **SQL** · **Git / GitHub Actions**
-- 🌱 Currently learning: **JMeter** for performance & load testing, and **TypeScript**
-- 🎯 2026 Goal: Join a QA team as a **Software Tester intern** and build a regression suite that runs automatically on every release
-- 📫 Reach me: ( mailto: kphoosanisa@gmail.com ) | [LinkedIn](https://linkedin.com/in/yourprofile)
+chance to work on real, hands-on projects for the first time — and that's
 
-## 🧰 Tech Stack & Tools
-| Domain | Primary | Comfortable | Currently Exploring |
-|:---|:---|:---|:---|
-| **Test Automation** | — | ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=flat-square&logo=robotframework&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![POM](https://img.shields.io/badge/Page_Object_Model-6C5CE7?style=flat-square) | ![Playwright TS](https://img.shields.io/badge/Playwright_+_TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Test Design** | ![Test Template](https://img.shields.io/badge/Test_Template-FF6B6B?style=flat-square) ![DataDriver](https://img.shields.io/badge/DataDriver-E34F26?style=flat-square) ![Excel](https://img.shields.io/badge/Excel_Test_Data-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | — | ![Test Design](https://img.shields.io/badge/Boundary_%26_Equivalence-9B59B6?style=flat-square) |
-| **API & Performance** | — | — | ![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **CI & Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+when everything clicked. Digging into test cases, chasing down edge cases,
+
+and watching an automated suite catch a bug before it ever reached production
+
+made me realize this is exactly the kind of work I want to do.
+
+Since then, that experience has only deepened my interest in the field and
+
+pushed me to keep growing. I've been building automation test suites with
+
+Robot Framework and Playwright, designing data-driven test cases, and I'm
+
+now expanding my skills toward a broader range of testing practices —
+
+including performance testing — so I can grow into a more well-rounded tester.
+
+* ✉️  You can contact me at [kphoosanisa@gmail.com](mailto:kphoosanisa@gmail.com)
+* 🚀  I'm currently working on [การทดสอบระบบเว็บศูนย์กลางให้บริการเช่าอุปกรณ์ทางการเกษตร ด้วย Robot Framework](http://github.com/phoosanisa-k/agri-equipment-rental-qa)
+* 🧠  I'm currently learning JMeter for performance testing & writing tests in TypeScript
+* 👥  I'm looking to collaborate on internship opportunities in Software Testing / QA
+
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/phoosanisa-k" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/phoosanisa-k"><img src="https://github-readme-stats.vercel.app/api?username=phoosanisa-k&show_icons=true&hide=prs,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="phoosanisa-k's GitHub stats" /></a>
+
+<a href="https://github.com/phoosanisa-k" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoosanisa-k&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/phoosanisa-k/https://github.com/phoosanisa-k/agri-equipment-rental-qa" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=phoosanisa-k&repo=https://github.com/phoosanisa-k/agri-equipment-rental-qa&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
