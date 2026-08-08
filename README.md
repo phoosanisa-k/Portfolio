@@ -51,13 +51,12 @@ including performance testing — so I can grow into a more well-rounded tester.
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/phoosanisa-k" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-### Badges
 
-<b>My GitHub Stats</b>
-<a href="http://www.github.com/phoosanisa-k"><img src="https://github-readme-stats.vercel.app/api?username=phoosanisa-k&show_icons=true&hide=prs,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&count_private=true" alt="phoosanisa-k's GitHub stats" /></a>
-<a href="https://github.com/phoosanisa-k" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoosanisa-k&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&count_private=true" alt="Top Languages" /></a>
+### Badges
+<a href="http://www.github.com/phoosanisa-k"><img src="https://github-readme-stats-fast.vercel.app/api?username=phoosanisa-k&show_icons=true&hide=prs,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&count_private=true" alt="phoosanisa-k's GitHub stats" /></a>
+<a href="https://github.com/phoosanisa-k" align="left"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=phoosanisa-k&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&count_private=true" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 <div width="100%" align="center">
-<a href="https://github.com/phoosanisa-k/agri-equipment-rental-qa" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=phoosanisa-k&repo=agri-equipment-rental-qa&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/phoosanisa-k/agri-equipment-rental-qa" align="left"><img align="left" width="45%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=phoosanisa-k&repo=agri-equipment-rental-qa&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
