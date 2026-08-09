@@ -3,28 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Tester
 ---------------
-
-I'm a final-year IT student with a strong interest and passion for Software
-
-Testing & QA Automation. It all started about 2 years ago, when I got the
-
-chance to work on real, hands-on projects for the first time — and that's
-
-when everything clicked. Digging into test cases, chasing down edge cases,
-
-and watching an automated suite catch a bug before it ever reached production
-
-made me realize this is exactly the kind of work I want to do.
-
-Since then, that experience has only deepened my interest in the field and
-
-pushed me to keep growing. I've been building automation test suites with
-
-Robot Framework and Playwright, designing data-driven test cases, and I'm
-
-now expanding my skills toward a broader range of testing practices —
-
-including performance testing — so I can grow into a more well-rounded tester.
+Fourth-year Information Technology student who discovered a genuine enjoyment in finding bugs before users do. Completed end-to-end software testing projects independently — from preparing IEEE 829-2008 test documentation and designing over 300 test cases, to building automated test scripts with Robot Framework (Playwright/Selenium). Solid understanding of SDLC, STLC, and Agile practices. Seeking a Software Tester internship where I can contribute these skills to a real team, learn from experienced professionals, and grow alongside the quality of the systems I help maintain.
 
 * ✉️  You can contact me at [kphoosanisa@gmail.com](mailto:kphoosanisa@gmail.com)
 * 🚀  I'm currently working on [การทดสอบระบบเว็บศูนย์กลางให้บริการเช่าอุปกรณ์ทางการเกษตร ด้วย Robot Framework](http://github.com/phoosanisa-k/agri-equipment-rental-qa)
@@ -52,11 +31,9 @@ including performance testing — so I can grow into a more well-rounded tester.
 
 <p align="left"> <a href="https://www.github.com/phoosanisa-k" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 
-### Badges
-<a href="http://www.github.com/phoosanisa-k"><img src="https://github-readme-stats-fast.vercel.app/api?username=phoosanisa-k&show_icons=true&hide=prs,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&count_private=true" alt="phoosanisa-k's GitHub stats" /></a>
-<a href="https://github.com/phoosanisa-k" align="left"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=phoosanisa-k&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&count_private=true" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
+### Top Repositories
 <div width="100%" align="center">
 <a href="https://github.com/phoosanisa-k/agri-equipment-rental-qa" align="left"><img align="left" width="45%" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=phoosanisa-k&repo=agri-equipment-rental-qa&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
+
+
